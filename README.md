@@ -1,4 +1,4 @@
-# ETS2 Job Logger
+# Demir Logistics - Tracker
 
 Cross-platform Euro Truck Simulator 2 and American Truck Simulator job logger
 written in C++.
@@ -11,7 +11,7 @@ Currently only Linux is supported, maintainer(s) for Windows and MacOS are neede
 
 ## Functionality
 
-ETS2 Job Logger consists of wxWidgets based application and ETS2 plugin.
+Demir Logistics - Tracker consists of wxWidgets based application and ETS2 plugin.
 
 Plugin sends job related data to the application via websocket. Application then
 sends a POST request to the specified API URL when a new job is taken or a
